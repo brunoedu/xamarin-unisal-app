@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="UnisalApp/UnisalApp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnisalApp/Pages/InicialPage.cs">
+    <Files>
+      <File FileName="UnisalApp/MyClass.cs" Line="10" Column="3" />
+      <File FileName="UnisalApp/Pages/MenuPage.cs" Line="22" Column="13" />
+      <File FileName="UnisalApp/Pages/InicialPage.cs" Line="13" Column="6" />
+      <File FileName="UnisalApp/Pages/SobrePage.cs" Line="1" Column="1" />
+      <File FileName="UnisalApp/Pages/CursosPage.cs" Line="1" Column="1" />
+      <File FileName="UnisalApp/Pages/MapaPage.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
