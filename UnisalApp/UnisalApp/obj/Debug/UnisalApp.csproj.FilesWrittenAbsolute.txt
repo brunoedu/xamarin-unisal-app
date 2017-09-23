@@ -1,1 +1,2 @@
 /home/bruno/Documents/Pos Unisal/Xamarin/UnisalApp/UnisalApp/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/home/bruno/git/xamarin-unisal-app/UnisalApp/UnisalApp/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
